@@ -18,7 +18,5 @@
 	
 	<preference name="permissions" value="none" />
 	
-	<preference name="EnableViewportScale" value="true" />
-	
 	<gap:platform name="android" />
 </widget>
