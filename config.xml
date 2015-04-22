@@ -4,17 +4,17 @@
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
 	id		= "de.gamemodeon.mixcross"
 	version		= "0.0">
-	<preference name="phonegap-version" value="3.6.3" />
+	<preference name="phonegap-version" value="3.7.0" />
 
 	<name>Mischungskreuz</name>
 	<description>
-		Platzhalter
+		Nach Angabe zweier vorhandener Konzentrationen und Angabe der gewünschten Konzentration wird das Mischungsverhältnis angegeben (% und ml)
 	</description>
 	<author href="https://gamemodeon.de/user/1-lub/" email="lub@gamemodeon.de">
 		lub
 	</author>
 	
-	<icon src="images/icon.png" />
+	<icon src="icon.png" />
 	
 	<preference name="permissions" value="none" />
 	
