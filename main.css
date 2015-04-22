@@ -1,0 +1,12 @@
+input {
+	width: 40px;
+}
+input[readonly] {
+	background-color: #eaeaea;
+}
+th {
+	text-align: left;
+}
+.header {
+	text-align: center;
+}

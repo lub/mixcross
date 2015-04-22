@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<widget xmlns		= "http://www.w3.org/ns/widgets"
+	xmlns:gap	= "http://phonegap.com/ns/1.0"
+	id		= "de.gamemodeon.mixcross"
+	version		= "0.0">
+	<preference name="phonegap-version" value="3.6.3" />
+
+	<name>Mischungskreuz</name>
+	<description>
+		Platzhalter
+	</description>
+	<author href="https://gamemodeon.de/user/1-lub/" email="lub@gamemodeon.de">
+		lub
+	</author>
+	
+	<icon src="images/icon.png" />
+	
+	<preference name="permissions" value="none" />
+	
+	<gap:platform name="android" />
+</widget>
