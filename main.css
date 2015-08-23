@@ -2,7 +2,7 @@ input {
 	width: 100%;
 }
 input[readonly] {
-	background-color: #eaeaea;
+	background-color: #ff7d00;
 }
 th {
 	width: 25%;
