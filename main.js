@@ -1,7 +1,6 @@
 function cleanup(input) {
 	var input;
 	input = input.trim();
-	input = input.replace(',', '.');
 	return input;
 }
 
