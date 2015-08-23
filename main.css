@@ -1,11 +1,15 @@
 input {
-	width: 40px;
+	width: 100%;
 }
 input[readonly] {
 	background-color: #eaeaea;
 }
 th {
+	width: 25%;
 	text-align: left;
+}
+td {
+	width: 25%;
 }
 .header {
 	text-align: center;
